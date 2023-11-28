@@ -1,7 +1,5 @@
- {
-    
- "api":  { 
-   "maincategory": [
+ { 
+  "maincategory": [
       {
         "id": 0
       },
@@ -17,7 +15,7 @@
         "name": "Female",
         "id": 5
       }
-    ],
+    ]],
     "subcategory": [
       {
         "id": 0
@@ -600,6 +598,5 @@
         "id": 4
       }
     ]
-}
   }
 
