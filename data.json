@@ -1,6 +1,7 @@
  {
-    { 
- "api": "maincategory": [
+    
+ "api":  { 
+   "maincategory": [
       {
         "id": 0
       },
