@@ -1,5 +1,6 @@
  {
-    "maincategory": [
+    { 
+ "api": "maincategory": [
       {
         "id": 0
       },
@@ -598,5 +599,6 @@
         "id": 4
       }
     ]
+}
   }
 
